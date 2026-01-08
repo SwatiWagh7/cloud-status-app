@@ -1,0 +1,14 @@
+{
+  "name": "cloud-status-app",
+  "version": "1.0.0",
+  "description": "Cloud Status Dashboard Web Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "intern",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
